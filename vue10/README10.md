@@ -1,5 +1,5 @@
 # 第十章：使用webpack
-+ js应用程序的模块打包工具
++ js应用程序的模块打包工具(康改)
 + 主要使用场景是单页面富应用(SPA)，SPA通常是一个html文件和一堆按需加载的js组成。
 + webpack只不过是一个js配置文件，掌握四点：入口entry 出口output 加载器loaders 插件plugins 入口和出口webpack4可以不定义了
 + ES6中的export和import用来导出和导入模块。
